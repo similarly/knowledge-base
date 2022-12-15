@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "63cfa33929384dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "502f899f18fbd7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26160f60edda2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "курсы MIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e02e36718340cd58",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5d500139ab6fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d140e8321ebe1c0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d5a24eda9b9095c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fdb7a394b83b730",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bcde6128b9df6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f668a9d97885464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6838eba365f624d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "курсы MIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bca524b6b1eb867e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "курсы MIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "656c4ab741255335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "840d0179096d580d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "курсы MIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "26160f60edda2a8f",
+  "lastOpenFiles": [
+    "идеи для проектов.md",
+    "курсы MIT.md",
+    "общий список вещей.md",
+    "daily checklist.md",
+    "хекслет.md",
+    "LINUX/LINUX.md",
+    "LINUX/neofetch.md",
+    "вопросы для собеса.md",
+    "dailies/2022-12-07.md",
+    "().md"
+  ]
+}
