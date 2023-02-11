@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily checklist.md",
+                "file": "курсы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily checklist.md",
+                "file": "курсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily checklist.md",
+                "file": "курсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily checklist.md"
+                "file": "курсы.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "713f6df31b624e76",
   "lastOpenFiles": [
-    "идеи для проектов.md",
+    "LINUX/LINUX.md",
+    "LINUX/neofetch.md",
+    "LINUX/cli utils.md",
+    "Веб/Веб.md",
     "daily checklist.md",
+    "идеи для проектов.md",
     "курсы.md",
-    "матан.md",
-    "общий список вещей.md",
     "ХАСЛ Electric Boogalo.md",
-    "Бытовуха/Полезные ресурсы.md",
-    "general todo.md",
-    "хекслет.md",
-    "вопросы для собеса.md"
+    "общий список вещей.md",
+    "матан.md"
   ]
 }
