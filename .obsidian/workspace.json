@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "курсы.md",
+                "file": "список модов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da988da9c8d35a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи для проектов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32563ede21bfbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список модов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "курсы.md",
+                "file": "список модов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "курсы.md",
+                "file": "список модов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "курсы.md"
+                "file": "список модов.md"
               }
             }
           }
@@ -147,15 +171,15 @@
   },
   "active": "713f6df31b624e76",
   "lastOpenFiles": [
+    "идеи для проектов.md",
+    "список модов.md",
+    "daily checklist.md",
+    "курсы.md",
+    "вопросы по проекту.md",
+    "ХАСЛ Electric Boogalo.md",
+    "матан.md",
     "LINUX/LINUX.md",
     "LINUX/neofetch.md",
-    "LINUX/cli utils.md",
-    "Веб/Веб.md",
-    "daily checklist.md",
-    "идеи для проектов.md",
-    "курсы.md",
-    "ХАСЛ Electric Boogalo.md",
-    "общий список вещей.md",
-    "матан.md"
+    "LINUX/cli utils.md"
   ]
 }
