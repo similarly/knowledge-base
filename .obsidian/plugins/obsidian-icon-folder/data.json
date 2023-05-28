@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 19,
+    "emojiStyle": "twemoji",
+    "iconColor": "#a6a6a6",
+    "recentlyUsedIcons": [
+      "📖",
+      "♻",
+      "☀",
+      "FasAddressCard",
+      "FasBookOpen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": -24,
+      "right": 3,
+      "bottom": -24,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "DAILY.md": "☀",
+  "ХАСЛ Electric Boogalo.md": "♻",
+  "обучение/обучение.md": "FasBookOpen",
+  "обучение/структура для собеса.md": "FasAddressCard",
+  "обучение/работа над проектами.md": "FasBoxArchive",
+  "обучение": "📖"
+}

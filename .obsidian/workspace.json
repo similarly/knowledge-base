@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "502f899f18fbd7f2",
+        "id": "0da1de53741237b8",
         "type": "tabs",
         "children": [
           {
-            "id": "713f6df31b624e76",
+            "id": "4d9bc0ff70cbf7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "список модов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da988da9c8d35a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи для проектов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c32563ede21bfbd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список модов.md",
-                "mode": "source",
+                "file": "обучение/обучение.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -88,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e7fa1ee06f553db4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "список модов.md",
+                "file": "обучение/обучение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "список модов.md",
+                "file": "обучение/обучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "список модов.md"
+                "file": "обучение/обучение.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,17 +154,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "713f6df31b624e76",
+  "active": "4d9bc0ff70cbf7d4",
   "lastOpenFiles": [
-    "идеи для проектов.md",
-    "список модов.md",
-    "daily checklist.md",
-    "курсы.md",
-    "вопросы по проекту.md",
+    "gdfg.txt",
+    "обучение/структура для собеса.md",
+    "обучение/работа над проектами.md",
+    "обучение/обучение.md",
     "ХАСЛ Electric Boogalo.md",
-    "матан.md",
+    "DAILY.md",
+    "обучение",
+    "вещи прочитать.md",
+    "вопросы по проекту.md",
+    "projects/wp_qual/воркфлоу.md",
+    "pics/Pasted image 20230513130119.png",
+    "web/LARAVEL/LARAVEL.md",
+    "projects/wp_qual",
+    "web/CRUD/CRUD.md",
+    "web/GENERAL/порождающие шаблоны.md",
+    "web/GENERAL/GENERAL.md",
+    "web/PYTHON/closure.md",
+    "web/PYTHON/PYTHON.md",
+    "web/PHP/callback.md",
+    "web/LARAVEL/docs.md",
+    "web/PHP/PHP.md",
+    "web/HTML/HTML.md",
+    "web/DOCKER/DOCKER.md",
+    "projects",
+    "web/Веб.md",
+    "pics/test.png",
+    "pics/dom_tree.png",
     "LINUX/LINUX.md",
     "LINUX/neofetch.md",
-    "LINUX/cli utils.md"
+    "LINUX/cli utils.md",
+    "dailies/2022-12-01.md",
+    "dailies/2022-11-27.md"
   ]
 }

@@ -1,4 +1,11 @@
 [
   "folder-note-plugin",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-image-toolkit",
+  "mousewheel-image-zoom",
+  "obsidian-emoji-toolbar",
+  "obsidian-icon-folder",
+  "obsidian-admonition",
+  "obsidian-mind-map",
+  "obsidian-git"
 ]
