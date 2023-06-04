@@ -1,4 +1,4 @@
-- [ ] codewars
+я то- [ ] codewars
 - [ ] hexlet
 - [ ] git тренажёр
 - [ ] лекция по матану
